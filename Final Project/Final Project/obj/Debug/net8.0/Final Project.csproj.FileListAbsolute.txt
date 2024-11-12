@@ -1,0 +1,14 @@
+C:\Users\Mojtaba\Desktop\CS625-OOP\Final Project\Final Project\Final Project\obj\Debug\net8.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mojtaba\Desktop\CS625-OOP\Final Project\Final Project\Final Project\obj\Debug\net8.0\Final Project.AssemblyInfoInputs.cache
+C:\Users\Mojtaba\Desktop\CS625-OOP\Final Project\Final Project\Final Project\obj\Debug\net8.0\Final Project.AssemblyInfo.cs
+C:\Users\Mojtaba\Desktop\CS625-OOP\Final Project\Final Project\Final Project\obj\Debug\net8.0\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Mojtaba\Desktop\CS625-OOP\Final Project\Final Project\Final Project\bin\Debug\net8.0\Final Project.exe
+C:\Users\Mojtaba\Desktop\CS625-OOP\Final Project\Final Project\Final Project\bin\Debug\net8.0\Final Project.deps.json
+C:\Users\Mojtaba\Desktop\CS625-OOP\Final Project\Final Project\Final Project\bin\Debug\net8.0\Final Project.runtimeconfig.json
+C:\Users\Mojtaba\Desktop\CS625-OOP\Final Project\Final Project\Final Project\bin\Debug\net8.0\Final Project.dll
+C:\Users\Mojtaba\Desktop\CS625-OOP\Final Project\Final Project\Final Project\bin\Debug\net8.0\Final Project.pdb
+C:\Users\Mojtaba\Desktop\CS625-OOP\Final Project\Final Project\Final Project\obj\Debug\net8.0\Final Project.dll
+C:\Users\Mojtaba\Desktop\CS625-OOP\Final Project\Final Project\Final Project\obj\Debug\net8.0\refint\Final Project.dll
+C:\Users\Mojtaba\Desktop\CS625-OOP\Final Project\Final Project\Final Project\obj\Debug\net8.0\Final Project.pdb
+C:\Users\Mojtaba\Desktop\CS625-OOP\Final Project\Final Project\Final Project\obj\Debug\net8.0\Final Project.genruntimeconfig.cache
+C:\Users\Mojtaba\Desktop\CS625-OOP\Final Project\Final Project\Final Project\obj\Debug\net8.0\ref\Final Project.dll
